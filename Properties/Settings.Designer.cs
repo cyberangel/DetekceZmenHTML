@@ -25,15 +25,6 @@ namespace DetekceZmenHTML.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Publikov")]
-        public string HledatRetezec {
-            get {
-                return ((string)(this["HledatRetezec"]));
-            }
-        }
-        
-        [global::System.Configuration.ApplicationScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("smtp.seznam.cz")]
         public string SmtpServer {
             get {
@@ -43,7 +34,7 @@ namespace DetekceZmenHTML.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("j.cimler@seznam.cz")]
+        [global::System.Configuration.DefaultSettingValueAttribute("username")]
         public string SmtpUsername {
             get {
                 return ((string)(this["SmtpUsername"]));
@@ -52,7 +43,7 @@ namespace DetekceZmenHTML.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("lenkasdf")]
+        [global::System.Configuration.DefaultSettingValueAttribute("password")]
         public string SmtpPassword {
             get {
                 return ((string)(this["SmtpPassword"]));
