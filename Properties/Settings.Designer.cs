@@ -88,7 +88,7 @@ namespace DetekceZmenHTML.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("j.pacuta@gmail.com")]
+        [global::System.Configuration.DefaultSettingValueAttribute("j.cimler@seznam.cz")]
         public string EmailAdresa {
             get {
                 return ((string)(this["EmailAdresa"]));

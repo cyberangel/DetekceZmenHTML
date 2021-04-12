@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DetekceZmenHTML.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SmtpServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.seznam.cz</Value>
+    </Setting>
+    <Setting Name="SmtpUsername" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">username</Value>
+    </Setting>
+    <Setting Name="SmtpPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+    <Setting Name="SmtpPort" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SmtpUseSSL" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EmailPredmet" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Změna stránek DLP</Value>
+    </Setting>
+    <Setting Name="EmailObsah" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Došlo ke změně na stránkách DLP</Value>
+    </Setting>
+    <Setting Name="EmailAdresa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">j.cimler@seznam.cz</Value>
+    </Setting>
+    <Setting Name="UrlStranky" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://opendata.sukl.cz/?q=katalog-otevrenych-dat</Value>
+    </Setting>
+    <Setting Name="NazevSouboruHTMLkUlozeni" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DLP.HTML</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
